@@ -20,4 +20,7 @@ function divide(num1,num2){
 }   
 
 alert(divide(50, 5));
-
+//alert(modulus(9,4));
+//alert(subtract(20,6));
+//alert(multiply(6,7));
+//alert(divide(12,3));
